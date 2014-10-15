@@ -1,4 +1,4 @@
 CmpFunc
 =======
 
-Compare performance of functions and operators for my next project.
+This project is opened to compare performance of functions and operators for my next project.
